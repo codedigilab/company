@@ -6890,11 +6890,11 @@ span {
 .m-contact .input-single input,
 .m-contact .input-single textarea {
   background-color: inherit;
-  padding: 20px 16px;
+  padding: 10px 16px;
   border: 1px solid rgb(255, 255, 255);
   width: 100%;
-  border-radius: 5px;
-  max-height: 180px;
+  border-radius: 10px;
+  max-height: 80px;
 }
 .m-contact .m-contact__form h3 {
   max-width: 550px;
@@ -8310,7 +8310,7 @@ span {
     transform: translateX(0px) translateY(0%);
   }
   .about-banner {
-    padding: 180px 0px 100px;
+    padding: 40px 0px 100px;
   }
   .service-banner {
     padding: 180px 0px 100px;
