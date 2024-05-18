@@ -1,40 +1,8 @@
 document.write(`
 
 <!-- Preloader Start -->
-<div id="preloader" class="preloader">
-    <div class="animation-preloader">
-        <div class="spinner">
-        </div>
-        <div class="txt-loading">
-            <span data-text-preloader="C" class="letters-loading">
-                C
-            </span>
-            <span data-text-preloader="D" class="letters-loading">
-                D
-            </span>
-            <span data-text-preloader="L" class="letters-loading">
-                L
-            </span>
-        </div>
-        <p class="text-center">Loading</p>
-    </div>
-    <div class="loader">
-        <div class="row">
-            <div class="col-3 loader-section section-left">
-                <div class="bg"></div>
-            </div>
-            <div class="col-3 loader-section section-left">
-                <div class="bg"></div>
-            </div>
-            <div class="col-3 loader-section section-right">
-                <div class="bg"></div>
-            </div>
-            <div class="col-3 loader-section section-right">
-                <div class="bg"></div>
-            </div>
-        </div>
-    </div>
-</div>
+
+  
 
 <!-- Custom Header Start -->
 <header class="header-section bg-dark cmn-fixed hb-border py-lg-0 py-6">
