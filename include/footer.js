@@ -8,6 +8,40 @@ document.write(`
 <footer class="footer-version-two bg2-clr">
     <div class="footer-topversion-two pt-20 pb-20">
         <div class="container">
+        <div class="footer-client mb-20 ">
+        <h5 class="trusted white">
+            Our Trusted Clients 
+        </h5>
+        <div class="swiper trusted-inner">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <a href="javascript:void(0)">
+                        <img src="assets/img/client/c1.png" alt="img">
+                    </a>
+                </div>
+                <div class="swiper-slide">
+                    <a href="javascript:void(0)">
+                        <img src="assets/img/client/c2.png" alt="img">
+                    </a>
+                </div>
+                <div class="swiper-slide">
+                    <a href="javascript:void(0)">
+                        <img src="assets/img/client/c3.png" alt="img">
+                    </a>
+                </div>
+                <div class="swiper-slide">
+                    <a href="javascript:void(0)">
+                        <img src="assets/img/client/c4.png" alt="img">
+                    </a>
+                </div>
+                <div class="swiper-slide">
+                    <a href="javascript:void(0)">
+                        <img src="assets/img/client/c5.png" alt="img">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
             <div class="row gy-lg-0 gy-10 mt-xxl-5 mb-xxl-5 justify-content-between">
                 <div class="col-xxl-6 col-xl-6 col-lg-7">
                     <div class="footer-widget">
@@ -312,11 +346,6 @@ document.write(`
 <script src="assets/js/vanilla-tilt.min.js"></script>
 <!-- js Mian start -->
 <script src="assets/js/main.js"></script>
-
-
-
-
-
 
 
 `);
