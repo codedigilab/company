@@ -17,6 +17,7 @@ document.write(`
     <link rel="stylesheet" href="assets/css/swiper.min.css">
     <link rel="stylesheet" href="assets/css/aos.css">
     <link rel="stylesheet" href="assets/css/main.css">
+    
 </head>
 
 `);

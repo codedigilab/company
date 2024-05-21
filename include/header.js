@@ -47,23 +47,24 @@ document.write(`
                                
                             <li class="menu-item position-relative">
                                 <button class="position-relative  ps-5 fw_500 white-clr cus-z1">
-                                    Blog
+                                    Company
                                 </button>
                                 <ul style="border-radius: 10px;" class="sub-menu px-lg-4 py-xxl-3 py-2">
                                     <li class="menu-link py-1">
-                                        <a href="blog-grid.html" class="fw_500 white-clr">Blog Grid</a>
+                                        <a href="about.html" class="fw_500 white-clr">About Us</a>
                                     </li>
                                     <li class="menu-link py-1">
-                                        <a href="blog-list.html" class="fw_500 white-clr">Blog List</a>
+                                        <a href="faq.html" class="fw_500 white-clr">Faq List</a>
                                     </li>
                                     <li class="menu-link py-1">
-                                        <a href="blog-details.html" class="fw_500 white-clr">Blog Details</a>
+                                        <a href="blog-details.html" class="fw_500 white-clr">Blog</a>
                                     </li>
                                 </ul>
                             </li>
+                             
                                 <li class="menu-item position-relative">
-                                    <a href="about.html" class="fw_500">
-                                        About Us
+                                    <a href="completeproject.html" class="fw_500">
+                                          Case Study
                                     </a>
                                 </li>
                             <li class="menu-item position-relative">

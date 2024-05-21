@@ -191,7 +191,7 @@ document.write(`
             <img src="assets/img/my/logo.png" alt="img">
         </a>
         <p>
-        ode Digi Lab. Is The Leading Custom Web Development Company Offering A Comprehensive Range Of Website Development Services.
+        Code Digi Lab. Is The Leading Custom Web Development Company Offering A Comprehensive Range Of Website Development Services.
             </p>
         <div class="sub-contact-left d-grid">
             <div class="sub__contac-item">
