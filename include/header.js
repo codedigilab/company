@@ -57,7 +57,7 @@ document.write(`
                                         <a href="faq.html" class="fw_500 white-clr">Faq List</a>
                                     </li>
                                     <li class="menu-link py-1">
-                                        <a href="blog-details.html" class="fw_500 white-clr">Blog</a>
+                                        <a href="#" class="fw_500 white-clr">Blog</a>
                                     </li>
                                 </ul>
                             </li>
@@ -72,7 +72,6 @@ document.write(`
                                     Contact Us
                                 </a>
                             </li>
-                            
                         </ul>
                     </div>
                     <div
