@@ -1006,7 +1006,7 @@ footer {
 }
 @media (max-width: 1399px) {
   .breadcrumnd-banner {
-    padding: 100px 2px 40px;
+    padding: 190px 2px 120px;
   }
 }
 @media (max-width: 1199px) {
@@ -1023,12 +1023,12 @@ footer {
 }
 @media (max-width: 991px) {
   .breadcrumnd-banner {
-    padding: 100px 1px 30px;
+    padding: 200px 1px 100px;
   }
 }
 @media (max-width: 575px) {
   .breadcrumnd-banner {
-    padding: 100px 1px 30px;
+    padding: 180px 1px 80px;
   }
   .breadcrumnd-banner .cmn-svg-shape {
     bottom: -70px;
@@ -2526,7 +2526,7 @@ input.main-search-input::placeholder {
 }
 
 .contact-content {
-  padding: 60px 40px;
+  padding: 42px 40px;
 }
 .contact-content form .nice-select,
 .contact-content form input,

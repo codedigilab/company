@@ -37,7 +37,7 @@ document.write(`
                             </button>
                             <ul style="border-radius: 10px;" class="sub-menu px-lg-4 py-xxl-3 py-2">
                                <li class="menu-link py-1">
-                                    <a href="service.html" class="fw_500 white-clr">All Service</a>
+                                    <a href="#" class="fw_500 white-clr">All Service</a>
                                 </li>
                                 <li class="menu-link py-1">
                                     <a href="ecommerce.html" class="fw_500 white-clr">E-Commerce</a>
@@ -54,7 +54,7 @@ document.write(`
                                         <a href="about.html" class="fw_500 white-clr">About Us</a>
                                     </li>
                                     <li class="menu-link py-1">
-                                        <a href="faq.html" class="fw_500 white-clr">Faq List</a>
+                                        <a href="#" class="fw_500 white-clr">Faq List</a>
                                     </li>
                                     <li class="menu-link py-1">
                                         <a href="#" class="fw_500 white-clr">Blog</a>
@@ -63,7 +63,7 @@ document.write(`
                             </li>
                              
                                 <li class="menu-item position-relative">
-                                    <a href="completeproject.html" class="fw_500">
+                                    <a href="#" class="fw_500">
                                           Case Study
                                     </a>
                                 </li>
