@@ -985,7 +985,7 @@ footer {
 .breadcrumnd-banner {
   background: url(../img/banner/breadcrumnd-bg.png) no-repeat center center;
   background-size: cover;
-  padding: 220px 2px 144px;
+  padding: 120px 2px 50px;
 }
 .breadcrumnd-banner .cmn-dots {
   position: absolute;
