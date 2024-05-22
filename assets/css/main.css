@@ -1006,7 +1006,7 @@ footer {
 }
 @media (max-width: 1399px) {
   .breadcrumnd-banner {
-    padding: 190px 2px 120px;
+    padding: 100px 2px 40px;
   }
 }
 @media (max-width: 1199px) {
@@ -1023,12 +1023,12 @@ footer {
 }
 @media (max-width: 991px) {
   .breadcrumnd-banner {
-    padding: 200px 1px 100px;
+    padding: 100px 1px 30px;
   }
 }
 @media (max-width: 575px) {
   .breadcrumnd-banner {
-    padding: 180px 1px 80px;
+    padding: 100px 1px 30px;
   }
   .breadcrumnd-banner .cmn-svg-shape {
     bottom: -70px;

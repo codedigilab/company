@@ -46,11 +46,6 @@ document.write(`
                 <div class="col-xxl-6 col-xl-6 col-lg-7">
                     <div class="footer-widget">
                         <div class="footer-lets-title mb-xxl-20 mb-xl-15 mb-lg-10 mb-8">
-                            <span
-                                class="fdisplay-title d-flex gap-2 align-items-center mb-xxl-10 mb-xl-8 mb-lg-6 mb-6"
-                                data-aos="zoom-in-right" data-aos-duration="1400">
-                                Let’s <span class="talk" data-aos="zoom-in-up" data-aos-duration="1800">talk!</span>
-                            </span>
                             <p class="pra-clr" data-aos="zoom-in" data-aos-duration="1800">
                                 Our team will answer questions, give suggestions and provide you with a detailed eCommerce scope, pricing estimate, and project timeline. Fill out the form below, or if you’d like to discuss your project over the phone, call us at +917361040504
                             </p>
@@ -152,29 +147,21 @@ document.write(`
                         <div class="row g-xxl-8 g-xl-7 g-6">
                             <div class="col-xl-6" data-aos="zoom-in-right" data-aos-duration="1400">
                                 <div class="gorm-grp">
-                                    <label class="fw-medium white mb-xxl-5 mb-xl-4 mb-3" for="name">Your
-                                        Name*</label>
                                     <input id="name" name="name" type="text" placeholder="Your Name">
                                 </div>
                             </div>
                             <div class="col-xl-6" data-aos="zoom-in-right" data-aos-duration="1400">
                                 <div class="gorm-grp">
-                                    <label class="fw-medium white mb-xxl-5 mb-xl-4 mb-3" for="emails">Your
-                                        Number*</label>
                                     <input id="emails" name="number" type="number" placeholder="Number">
                                 </div>
                             </div>
                             <div class="col-xl-12" data-aos="zoom-in-right" data-aos-duration="1400">
                                 <div class="gorm-grp">
-                                    <label class="fw-medium white mb-xxl-5 mb-xl-4 mb-3" for="emails">Your
-                                        Email*</label>
                                     <input id="emails" name="email" type="email" placeholder="Your Email">
                                 </div>
                             </div>
                             <div class="col-xl-12" data-aos="zoom-in-right" data-aos-duration="1400">
                                 <div class="gorm-grp">
-                                    <label for="mess" class="fw-medium white mb-xxl-5 mb-xl-4 mb-3">Your
-                                        Message*</label>
                                     <textarea name="write" id="mess" rows="3"
                                         placeholder="Write Message"></textarea>
                                 </div>
