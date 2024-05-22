@@ -6,7 +6,7 @@ document.write(`
 
 <!-- Footer Version-2 Start -->
 <footer class="footer-version-two bg2-clr">
-    <div class="footer-topversion-two pt-20 pb-20">
+    <div class="footer-topversion-two mt-4 mb-4">
         <div class="container">
         <div class="footer-client mb-20 ">
         <h5 class="trusted white">
