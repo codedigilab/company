@@ -63,7 +63,7 @@ document.write(`
                             </li>
                              
                                 <li class="menu-item position-relative">
-                                    <a href="#" class="fw_500">
+                                    <a href="casestudy.html" class="fw_500">
                                           Case Study
                                     </a>
                                 </li>
